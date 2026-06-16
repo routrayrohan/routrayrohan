@@ -1,16 +1,25 @@
 ## Hi there 👋
+Myself Rohan
+i am Certified AWS Certified Solutions Architect – Associate with allmost 9 years of experience in Site Reliability Engineering (SRE), Operational Acceptance Testing (OAT), and cloud operations across both Amazon Web Services Public Cloud and private cloud.
 
-<!--
-**routrayrohan/routrayrohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁ AWS
+🚀 Kubernetes
+🏗 Terraform
+📊 Grafana
+📈 Prometheus
+🐧 Linux
 
-Here are some ideas to get you started:
+GitHub Stats
+GitHub Streak
+Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects
+- AWS Migration
+- Kubernetes Automation
+- Terraform Modules
+- Monitoring Dashboards
+
+Certifications
+------------------------------------------------
+AWS Solutions Architect Associate
+Oracl cloud Infrastructure foundation associate
