@@ -18,7 +18,28 @@ Featured Projects
 - Kubernetes Automation
 - Terraform Modules
 - Monitoring Dashboards
-
+  
+Skills:
+Site Reliability Engineering (SRE)
+Reliability Engineering
+Kubernetes (EKS/OpenShift)
+AWS
+Terraform
+Infrastructure as Code (IaC)
+CI/CD
+Incident Management
+Service Level Objectives (SLO)
+Service Level Indicators (SLI)
+Error Budgets
+Observability
+Prometheus
+Grafana
+Datadog
+Python/Shell Scripting
+Capacity Planning
+Disaster Recovery
+High Availability
+Root Cause Analysis (RCA)
 Certifications
 ------------------------------------------------
 AWS Solutions Architect Associate
